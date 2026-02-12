@@ -17,6 +17,10 @@ agent_communication_log.json
 *.sqlite
 *.sqlite3
 
+# Documentation
+IMPLEMENTATION_GUIDE.md
+QUICK_START.md
+
 # IDE / Editor
 .vscode/
 .idea/
