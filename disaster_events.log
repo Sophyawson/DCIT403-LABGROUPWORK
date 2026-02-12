@@ -1,6 +1,0 @@
-2026-02-12 01:18:36,801 - INFO - EVENT type=earthquake severity=3 location=Madina id=75b1685e-764c-4135-9ba2-c70f95b0dd55
-2026-02-12 01:18:39,347 - INFO - EVENT type=earthquake severity=4 location=Krofrom id=f4f9fedc-6f0b-42d9-848e-2c2e19be31f0
-2026-02-12 01:18:41,377 - INFO - EVENT type=flood severity=5 location=Madina id=5495bf8d-8902-4adc-a593-8f132c92e806
-2026-02-12 01:41:42,016 - INFO - EVENT type=Earthquake severity=3 location=Madina id=a6233481-ddca-4f46-a471-22a9e9f567a5
-2026-02-12 01:41:44,573 - INFO - EVENT type=Earthquake severity=4 location=Krofrom id=5e35bf14-757d-45af-985b-a902b0d5d264
-2026-02-12 01:41:46,589 - INFO - EVENT type=Flood severity=5 location=Madina id=5161d183-621c-47e0-aafa-bf709faf3eab
