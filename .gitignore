@@ -1,0 +1,41 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Generated Runtime Files
+*.log
+agent_communication_log.json
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Temporary Files
+*.tmp
+*.bak
+.tmp/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/

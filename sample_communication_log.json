@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-02-12T14:32:45.123456",
+    "type": "outgoing",
+    "sender": "sender@localhost",
+    "receiver": "receiver@localhost",
+    "performative": "INFORM",
+    "content": "System status is operational. All systems functioning normally."
+  },
+  {
+    "timestamp": "2026-02-12T14:32:45.456789",
+    "type": "incoming",
+    "sender": "sender@localhost",
+    "receiver": "receiver@localhost",
+    "performative": "INFORM",
+    "content": "System status is operational. All systems functioning normally."
+  },
+  {
+    "timestamp": "2026-02-12T14:32:45.789012",
+    "type": "incoming",
+    "sender": "receiver@localhost",
+    "receiver": "sender@localhost",
+    "performative": "INFORM",
+    "content": "Acknowledgement: Received your information - 'System status is operational. All systems functioning normally.'"
+  },
+  {
+    "timestamp": "2026-02-12T14:32:47.234567",
+    "type": "outgoing",
+    "sender": "sender@localhost",
+    "receiver": "receiver@localhost",
+    "performative": "REQUEST",
+    "content": "Please provide system diagnostics report"
+  },
+  {
+    "timestamp": "2026-02-12T14:32:47.567890",
+    "type": "incoming",
+    "sender": "sender@localhost",
+    "receiver": "receiver@localhost",
+    "performative": "REQUEST",
+    "content": "Please provide system diagnostics report"
+  },
+  {
+    "timestamp": "2026-02-12T14:32:47.901234",
+    "type": "incoming",
+    "sender": "receiver@localhost",
+    "receiver": "sender@localhost",
+    "performative": "INFORM",
+    "content": "SYSTEM DIAGNOSTICS REPORT\n=========================\n- CPU Usage: 45%\n- Memory Usage: 62%\n- Network Status: OK\n- Disk Space: 87GB available\n- System Uptime: 48 hours\n- All Services: OPERATIONAL"
+  }
+]
