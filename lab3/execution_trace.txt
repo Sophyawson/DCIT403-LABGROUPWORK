@@ -22,3 +22,43 @@ Sensor event severity: High
 State: RESCUING - performing rescue
 Rescue actions completed
 State: COMPLETED - mission finished
+RescueAgent starting...
+State: IDLE - waiting for sensor event
+Sensor event severity: High
+State: RESCUING - performing rescue
+Rescue actions completed
+State: COMPLETED - mission finished
+State: IDLE - waiting for sensor event
+Sensor event severity: Low
+State: IDLE - waiting for sensor event
+Sensor event severity: Critical
+State: RESCUING - performing rescue
+Rescue actions completed
+State: COMPLETED - mission finished
+State: IDLE - waiting for sensor event
+Sensor event severity: Critical
+State: RESCUING - performing rescue
+RescueAgent starting...
+State: IDLE - waiting for sensor event
+Sensor event severity: High
+State: RESCUING - performing rescue
+Rescue actions completed
+State: COMPLETED - mission finished
+State: IDLE - waiting for sensor event
+Sensor event severity: Low
+State: IDLE - waiting for sensor event
+Sensor event severity: Medium
+State: IDLE - waiting for sensor event
+Sensor event severity: High
+State: RESCUING - performing rescue
+Rescue actions completed
+State: COMPLETED - mission finished
+State: IDLE - waiting for sensor event
+Sensor event severity: Medium
+State: IDLE - waiting for sensor event
+Sensor event severity: Low
+State: IDLE - waiting for sensor event
+Sensor event severity: Critical
+State: RESCUING - performing rescue
+Rescue actions completed
+State: COMPLETED - mission finished
