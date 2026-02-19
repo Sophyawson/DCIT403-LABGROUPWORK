@@ -1,2 +1,19 @@
-spade==3.2.3
-aiohttp>=3.8.0
+# SPADE Agent Development Dependencies
+# Smart Python Agent Development Environment
+
+spade>=3.3.2
+aioxmpp>=0.13.3
+aiosasl>=0.5.0
+
+# Async utilities
+asyncio-mqtt>=0.16.2
+aiohttp>=3.9.0
+
+# Development tools
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Utilities
+python-dotenv>=1.0.0
+colorama>=0.4.6
+rich>=13.7.0
